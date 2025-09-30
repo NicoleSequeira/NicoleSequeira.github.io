@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard Project</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Leaderboard</h1>
+            <div class="search-container">
+                <div class="search-box">
+                    <input type="text" id="search-input" placeholder="Search players by name or country..." />
+                    <button id="search-clear" class="search-clear-btn" title="Clear search">✕</button>
+                </div>
+                <div class="search-results-info" id="search-results"></div>
+            </div>
+        </header>
+        
+        <main>
+            <div class="table-container">
+                <table id="leaderboard-table">
+                    <thead>
+                        <tr>
+                            <th class="sortable" data-sort="rank">
+                                Rank <span class="sort-indicator"></span>
+                            </th>
+                            <th class="sortable" data-sort="name">
+                                Player Name <span class="sort-indicator"></span>
+                            </th>
+                            <th class="sortable" data-sort="score">
+                                Score <span class="sort-indicator"></span>
+                            </th>
+                            <th class="sortable" data-sort="level">
+                                Level <span class="sort-indicator"></span>
+                            </th>
+                            <th class="sortable" data-sort="join_date">
+                                Date <span class="sort-indicator"></span>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody id="leaderboard-body"></tbody>
+                </table>
+            </div>
+            
+            <div class="pagination-container">
+                <div class="pagination-controls">
+                    <button id="first-page" class="pagination-btn">First</button>
+                    <button id="prev-page" class="pagination-btn">Previous</button>
+                    <span class="page-info">
+                        Page <span id="current-page">1</span> of <span id="total-pages">1</span>
+                    </span>
+                    <button id="next-page" class="pagination-btn">Next</button>
+                    <button id="last-page" class="pagination-btn">Last</button>
+                </div>
+                
+                <div class="page-size-controls">
+                    <label for="page-size">Show:</label>
+                    <select id="page-size">
+                        <option value="10">10</option>
+                        <option value="25" selected>25</option>
+                        <option value="50">50</option>
+                        <option value="100">100</option>
+                    </select>
+                    <span>entries per page</span>
+                </div>
+            </div>
+        </main>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

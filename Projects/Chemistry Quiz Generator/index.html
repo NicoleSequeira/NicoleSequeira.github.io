@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chemistry Quiz | Quiz Generator</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="icon" type="image/x-icon" href="./Imgs/beaker-favicon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <h1 class="quiz-title">Chemistry Quiz Generator</h1>
+    <div class="main-box">
+        <h2>Select Number of Questions</h2>
+        <div class="question-options">
+            <select id="questionCount">
+                <option value="5">5 Questions</option>
+                <option value="10">10 Questions</option>
+                <option value="15">15 Questions</option>
+                <option value="20">20 Questions</option>
+                <option value="50">50 Questions</option>
+            </select>
+        </div>
+        <button id="startQuiz" class="start-button">Start Quiz<i class="fa-solid fa-atom"></i></button>
+    </div>
+
+
+
+    <div class="quiz-counter hidden" id="quizCounter">
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>

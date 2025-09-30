@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dual Web Galleries</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+    <section class="carousel-container" id="carousel-container">
+        <div class="carousel">
+            <div class="carousel-images">
+                <img src="./Carousel/dog.jpg" alt="image 1">
+                <img src="./Carousel/leaf3.jpg" alt="image 2">
+                <img src="./Carousel/leaf4.jpg" alt="image 3">
+                <img src="./Carousel/leaf2.jpg" alt="image 4">
+                <img src="./Carousel/forest.jpg" alt="image 5">
+                <img src="./Carousel/leaf1.jpg" alt="image 6">
+            </div>
+            <button id="previous">
+                < </button>
+                    <button id="next"> > </button>
+        </div>
+    </section>
+
+
+    <!-- Fixed Grid Gallery with Lightbox -->
+    <section>
+        <div class="container-grid-images" id="imageGrid">
+            <img src="./Grid/Mug.jpg" alt="Mug" class="grid-img">
+            <img src="./Grid/Book.jpg" alt="Book" class="grid-img">
+            <img src="./Grid/Leaf.jpg" alt="Leaf" class="grid-img">
+            <img src="./Grid/Bench.jpg" alt="Bench" class="grid-img">
+            <img src="./Grid/Ghost.jpg" alt="Ghost" class="grid-img">
+            <img src="./Grid/Book2.jpg" alt="Book2" class="grid-img">
+        </div>
+        <div id="lightbox" class="lightbox">
+            <span class="close">&times;</span>
+            <img class="lightbox-content" id="lightbox-img" src="" alt="">
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

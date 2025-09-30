@@ -1,0 +1,629 @@
+[
+    {
+      "category": "Matter and Atoms",
+      "question": "What is matter?",
+      "choices": [
+        "Anything that has mass and takes up space",
+        "A pure substance made of one type of atom",
+        "A physical combination of substances",
+        "A chemical reaction"
+      ],
+      "answer": "Anything that has mass and takes up space"
+    },
+    {
+      "category": "Matter and Atoms",
+      "question": "What is an element?",
+      "choices": [
+        "A mixture of different substances",
+        "A pure substance made of only one type of atom",
+        "A compound made of two or more elements",
+        "A physical combination of substances"
+      ],
+      "answer": "A pure substance made of only one type of atom"
+    },
+    {
+      "category": "Matter and Atoms",
+      "question": "What is a compound?",
+      "choices": [
+        "A pure substance made of one type of atom",
+        "A physical combination of substances",
+        "Made of two or more different elements chemically bonded",
+        "An element"
+      ],
+      "answer": "Made of two or more different elements chemically bonded"
+    },
+    {
+      "category": "Matter and Atoms",
+      "question": "What is a mixture?",
+      "choices": [
+        "A chemical reaction",
+        "A physical combination of substances",
+        "A pure substance",
+        "An element"
+      ],
+      "answer": "A physical combination of substances"
+    },
+    {
+      "category": "Matter and Atoms",
+      "question": "Does matter always have mass?",
+      "choices": [
+        "No, only solids have mass",
+        "Yes, matter always has mass",
+        "No, only liquids have mass",
+        "No, only gases have mass"
+      ],
+      "answer": "Yes, matter always has mass"
+    },
+    {
+      "category": "Matter and Atoms",
+      "question": "Can a compound be separated by physical means?",
+      "choices": [
+        "Yes, by filtering",
+        "No, only by chemical means",
+        "Yes, by evaporation",
+        "Yes, by boiling"
+      ],
+      "answer": "No, only by chemical means"
+    },
+    {
+      "category": "Matter and Atoms",
+      "question": "Give an example of a mixture.",
+      "choices": [
+        "Water",
+        "Air",
+        "Salt",
+        "Oxygen"
+      ],
+      "answer": "Air"
+    },
+    {
+      "category": "Matter and Atoms",
+      "question": "Is salt water a mixture or compound?",
+      "choices": [
+        "Mixture",
+        "Compound",
+        "Element",
+        "Solution"
+      ],
+      "answer": "Mixture"
+    },
+    {
+      "category": "Matter and Atoms",
+      "question": "Is oxygen an element or a compound?",
+      "choices": [
+        "Element",
+        "Compound",
+        "Mixture",
+        "Solution"
+      ],
+      "answer": "Element"
+    },
+    {
+      "category": "Matter and Atoms",
+      "question": "Is water an element or a compound?",
+      "choices": [
+        "Element",
+        "Compound",
+        "Mixture",
+        "Solution"
+      ],
+      "answer": "Compound"
+    },
+    {
+      "category": "Atomic Structure",
+      "question": "What are the three main particles of an atom?",
+      "choices": [
+        "Protons, neutrons, and electrons",
+        "Protons, electrons, and photons",
+        "Neutrons, electrons, and ions",
+        "Protons, electrons, and molecules"
+      ],
+      "answer": "Protons, neutrons, and electrons"
+    },
+    {
+      "category": "Atomic Structure",
+      "question": "Where are protons located in an atom?",
+      "choices": [
+        "In the nucleus",
+        "In the electron cloud",
+        "Outside the atom",
+        "In the orbitals"
+      ],
+      "answer": "In the nucleus"
+    },
+    {
+      "category": "Atomic Structure",
+      "question": "What charge do neutrons have?",
+      "choices": [
+        "No charge",
+        "Positive charge",
+        "Negative charge",
+        "Variable charge"
+      ],
+      "answer": "No charge"
+    },
+    {
+      "category": "Atomic Structure",
+      "question": "What is the charge of an electron?",
+      "choices": [
+        "Negative",
+        "Positive",
+        "Neutral",
+        "Variable"
+      ],
+      "answer": "Negative"
+    },
+    {
+      "category": "Atomic Structure",
+      "question": "What does the atomic number represent?",
+      "choices": [
+        "Number of protons",
+        "Number of neutrons",
+        "Number of electrons",
+        "Mass number"
+      ],
+      "answer": "Number of protons"
+    },
+    {
+      "category": "Atomic Structure",
+      "question": "How is the mass number calculated?",
+      "choices": [
+        "Protons plus neutrons",
+        "Protons plus electrons",
+        "Neutrons plus electrons",
+        "Protons only"
+      ],
+      "answer": "Protons plus neutrons"
+    },
+    {
+      "category": "Atomic Structure",
+      "question": "Can the number of electrons change in an atom?",
+      "choices": [
+        "Yes, atoms can gain or lose electrons",
+        "No, electrons are fixed",
+        "Yes, neutrons can change electrons",
+        "No, protons change electrons"
+      ],
+      "answer": "Yes, atoms can gain or lose electrons"
+    },
+    {
+      "category": "Atomic Structure",
+      "question": "Are electrons found inside the nucleus?",
+      "choices": [
+        "No, they move around the nucleus",
+        "Yes, inside the nucleus",
+        "Only some electrons",
+        "Electrons do not exist"
+      ],
+      "answer": "No, they move around the nucleus"
+    },
+    {
+      "category": "Atomic Structure",
+      "question": "What particle determines the identity of an element?",
+      "choices": [
+        "Number of protons",
+        "Number of neutrons",
+        "Number of electrons",
+        "Mass number"
+      ],
+      "answer": "Number of protons"
+    },
+    {
+      "category": "Atomic Structure",
+      "question": "Do neutrons affect the atomic number?",
+      "choices": [
+        "No",
+        "Yes",
+        "Only in some elements",
+        "Depends on the isotope"
+      ],
+      "answer": "No"
+    },
+    {
+      "category": "The Periodic Table",
+      "question": "How is the periodic table organized?",
+      "choices": [
+        "By increasing atomic number",
+        "By alphabetical order",
+        "By atomic mass",
+        "By melting point"
+      ],
+      "answer": "By increasing atomic number"
+    },
+    {
+      "category": "The Periodic Table",
+      "question": "What are the columns of the periodic table called?",
+      "choices": [
+        "Groups",
+        "Periods",
+        "Rows",
+        "Families"
+      ],
+      "answer": "Groups"
+    },
+    {
+      "category": "The Periodic Table",
+      "question": "What do elements in the same group have in common?",
+      "choices": [
+        "Similar properties",
+        "Same atomic mass",
+        "Same number of neutrons",
+        "Same color"
+      ],
+      "answer": "Similar properties"
+    },
+    {
+      "category": "The Periodic Table",
+      "question": "What are the rows of the periodic table called?",
+      "choices": [
+        "Periods",
+        "Groups",
+        "Families",
+        "Columns"
+      ],
+      "answer": "Periods"
+    },
+    {
+      "category": "The Periodic Table",
+      "question": "Where are metals located on the periodic table?",
+      "choices": [
+        "Left side",
+        "Right side",
+        "Center",
+        "Top"
+      ],
+      "answer": "Left side"
+    },
+    {
+      "category": "The Periodic Table",
+      "question": "Where are nonmetals located on the periodic table?",
+      "choices": [
+        "Right side",
+        "Left side",
+        "Center",
+        "Bottom"
+      ],
+      "answer": "Right side"
+    },
+    {
+      "category": "The Periodic Table",
+      "question": "What group are noble gases in?",
+      "choices": [
+        "Group 18",
+        "Group 1",
+        "Group 2",
+        "Group 17"
+      ],
+      "answer": "Group 18"
+    },
+    {
+      "category": "The Periodic Table",
+      "question": "Are noble gases reactive or stable?",
+      "choices": [
+        "Stable",
+        "Highly reactive",
+        "Somewhat reactive",
+        "Radioactive"
+      ],
+      "answer": "Stable"
+    },
+    {
+      "category": "The Periodic Table",
+      "question": "Which element has atomic number 1?",
+      "choices": [
+        "Hydrogen",
+        "Helium",
+        "Oxygen",
+        "Carbon"
+      ],
+      "answer": "Hydrogen"
+    },
+    {
+      "category": "The Periodic Table",
+      "question": "What is the significance of the atomic number?",
+      "choices": [
+        "Determines element identity",
+        "Determines melting point",
+        "Determines color",
+        "Determines density"
+      ],
+      "answer": "Determines element identity"
+    },
+    {
+      "category": "Chemical Bonds",
+      "question": "Why do atoms form bonds?",
+      "choices": [
+        "To become more stable",
+        "To gain mass",
+        "To change color",
+        "To become ions"
+      ],
+      "answer": "To become more stable"
+    },
+    {
+      "category": "Chemical Bonds",
+      "question": "What type of bond involves the transfer of electrons?",
+      "choices": [
+        "Ionic bond",
+        "Covalent bond",
+        "Metallic bond",
+        "Hydrogen bond"
+      ],
+      "answer": "Ionic bond"
+    },
+    {
+      "category": "Chemical Bonds",
+      "question": "Which types of elements form ionic bonds?",
+      "choices": [
+        "Metal and nonmetal",
+        "Two metals",
+        "Two nonmetals",
+        "Noble gases"
+      ],
+      "answer": "Metal and nonmetal"
+    },
+    {
+      "category": "Chemical Bonds",
+      "question": "What type of bond involves sharing electrons?",
+      "choices": [
+        "Covalent bond",
+        "Ionic bond",
+        "Metallic bond",
+        "Hydrogen bond"
+      ],
+      "answer": "Covalent bond"
+    },
+    {
+      "category": "Chemical Bonds",
+      "question": "Which types of elements form covalent bonds?",
+      "choices": [
+        "Nonmetal and nonmetal",
+        "Metal and nonmetal",
+        "Two metals",
+        "Noble gases"
+      ],
+      "answer": "Nonmetal and nonmetal"
+    },
+    {
+      "category": "Chemical Bonds",
+      "question": "What happens to electrons in ionic bonding?",
+      "choices": [
+        "Electrons are transferred",
+        "Electrons are shared",
+        "Electrons disappear",
+        "Electrons multiply"
+      ],
+      "answer": "Electrons are transferred"
+    },
+    {
+      "category": "Chemical Bonds",
+      "question": "What is a molecule?",
+      "choices": [
+        "Two or more atoms bonded covalently",
+        "An ion",
+        "A pure element",
+        "A metal"
+      ],
+      "answer": "Two or more atoms bonded covalently"
+    },
+    {
+      "category": "Chemical Bonds",
+      "question": "Are ionic bonds generally stronger or weaker than covalent bonds?",
+      "choices": [
+        "Generally strong, but depends on substance",
+        "Always weaker",
+        "Always stronger",
+        "Never form in nature"
+      ],
+      "answer": "Generally strong, but depends on substance"
+    },
+    {
+      "category": "Chemical Bonds",
+      "question": "What charge does an atom have after gaining electrons?",
+      "choices": [
+        "Negative charge (anion)",
+        "Positive charge (cation)",
+        "Neutral",
+        "Variable"
+      ],
+      "answer": "Negative charge (anion)"
+    },
+    {
+      "category": "Chemical Bonds",
+      "question": "What charge does an atom have after losing electrons?",
+      "choices": [
+        "Positive charge (cation)",
+        "Negative charge (anion)",
+        "Neutral",
+        "Variable"
+      ],
+      "answer": "Positive charge (cation)"
+    },
+    {
+      "category": "Chemical Reactions",
+      "question": "What is a chemical reaction?",
+      "choices": [
+        "Change substances into new substances",
+        "Physical mixing",
+        "Change temperature only",
+        "Change state of matter"
+      ],
+      "answer": "Change substances into new substances"
+    },
+    {
+      "category": "Chemical Reactions",
+      "question": "What are reactants?",
+      "choices": [
+        "Starting materials in a chemical reaction",
+        "Products",
+        "Catalysts",
+        "Energy released"
+      ],
+      "answer": "Starting materials in a chemical reaction"
+    },
+    {
+      "category": "Chemical Reactions",
+      "question": "What are products in a chemical reaction?",
+      "choices": [
+        "New substances formed",
+        "Starting materials",
+        "Reactants",
+        "Catalysts"
+      ],
+      "answer": "New substances formed"
+    },
+    {
+      "category": "Chemical Reactions",
+      "question": "What does the Law of Conservation of Mass state?",
+      "choices": [
+        "Matter is not created or destroyed",
+        "Mass increases during reactions",
+        "Mass decreases during reactions",
+        "Energy is lost"
+      ],
+      "answer": "Matter is not created or destroyed"
+    },
+    {
+      "category": "Chemical Reactions",
+      "question": "Can energy be released or absorbed in chemical reactions?",
+      "choices": [
+        "Yes",
+        "No",
+        "Only released",
+        "Only absorbed"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "category": "Chemical Reactions",
+      "question": "Is burning wood a chemical reaction?",
+      "choices": [
+        "Yes",
+        "No",
+        "Only physical",
+        "Depends on conditions"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "category": "Chemical Reactions",
+      "question": "What is an example of a product in photosynthesis?",
+      "choices": [
+        "Glucose",
+        "Oxygen",
+        "Water",
+        "Carbon dioxide"
+      ],
+      "answer": "Glucose"
+    },
+    {
+      "category": "Chemical Reactions",
+      "question": "Can a chemical reaction be reversed easily?",
+      "choices": [
+        "Some reactions are reversible, others are not",
+        "All reactions are reversible",
+        "No reactions are reversible",
+        "Only physical changes are reversible"
+      ],
+      "answer": "Some reactions are reversible, others are not"
+    },
+    {
+      "category": "Chemical Reactions",
+      "question": "Do atoms rearrange during chemical reactions?",
+      "choices": [
+        "Yes",
+        "No",
+        "Only electrons rearrange",
+        "Only neutrons rearrange"
+      ],
+      "answer": "Yes"
+    },
+    {
+      "category": "Chemical Reactions",
+      "question": "What must be equal before and after a chemical reaction?",
+      "choices": [
+        "Total mass",
+        "Temperature",
+        "Volume",
+        "Color"
+      ],
+      "answer": "Total mass"
+    },
+    {
+      "category": "Acids and Bases",
+      "question": "What is an acid?",
+      "choices": [
+        "Tastes sour, pH below 7, produces H⁺ ions",
+        "Tastes bitter, pH above 7, produces OH⁻ ions",
+        "Tastes sweet, pH 7",
+        "Neutral substance"
+      ],
+      "answer": "Tastes sour, pH below 7, produces H⁺ ions"
+    },
+    {
+      "category": "Acids and Bases",
+      "question": "What is a base?",
+      "choices": [
+        "Tastes bitter, feels slippery, pH above 7, produces OH⁻ ions",
+        "Tastes sour, pH below 7, produces H⁺ ions",
+        "Tastes sweet, pH 7",
+        "Neutral substance"
+      ],
+      "answer": "Tastes bitter, feels slippery, pH above 7, produces OH⁻ ions"
+    },
+    {
+      "category": "Acids and Bases",
+      "question": "What ion do acids produce in water?",
+      "choices": [
+        "Hydrogen ions (H⁺)",
+        "Hydroxide ions (OH⁻)",
+        "Sodium ions (Na⁺)",
+        "Chloride ions (Cl⁻)"
+      ],
+      "answer": "Hydrogen ions (H⁺)"
+    },
+    {
+      "category": "Acids and Bases",
+      "question": "What ion do bases produce in water?",
+      "choices": [
+        "Hydroxide ions (OH⁻)",
+        "Hydrogen ions (H⁺)",
+        "Sodium ions (Na⁺)",
+        "Chloride ions (Cl⁻)"
+      ],
+      "answer": "Hydroxide ions (OH⁻)"
+    },
+    {
+      "category": "Acids and Bases",
+      "question": "What is the pH of a neutral substance?",
+      "choices": [
+        "7",
+        "0",
+        "14",
+        "1"
+      ],
+      "answer": "7"
+    },
+    {
+      "category": "Acids and Bases",
+      "question": "Give an example of an acid.",
+      "choices": [
+        "Hydrochloric acid (HCl)",
+        "Sodium hydroxide (NaOH)",
+        "Water (H₂O)",
+        "Carbon dioxide (CO₂)"
+      ],
+      "answer": "Hydrochloric acid (HCl)"
+    },
+    {
+      "category": "Acids and Bases",
+      "question": "Give an example of a base.",
+          "choices": [
+            "Sodium hydroxide (NaOH)",
+            "Hydrochloric acid (HCl)",
+            "Water (H₂O)",
+            "Oxygen (O₂)"
+          ],
+          "answer": "Sodium hydroxide (NaOH)"
+        }
+    ]

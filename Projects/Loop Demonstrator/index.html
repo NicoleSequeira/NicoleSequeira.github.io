@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loop Demonstrator</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <nav>
+        <h3>Loop Types</h3>
+        <ul>
+            <li><a href="#for-loop">For Loop</a></li>
+            <li><a href="#while-loop">While Loop</a></li>
+            <li><a href="#forEach-loop">forEach Loop</a></li>
+        </ul>
+    </nav>
+
+    <div class="for-loop-container" id="for-loop">
+        <h2>For Loop: Counting from 1 to 10</h2>
+                <h5> For loop is a programming construct used to repeat a block of code a known number of times or to iterate over items in a collection like a list or string. </h5>
+
+        <div class="output"></div>
+<button onclick="runForLoop()">Run</button>  
+    </div>
+
+    <div class="while-loop-container" id="while-loop">
+        <h2>While Loop: Adding Random Numbers</h2>
+        <h5>While loop repeats a block of code as long as a specified condition is true. This example adds random numbers until the total exceeds 30, showing each number and the running total.</h5>
+        <div class="output"></div>
+<button onclick="runWhileLoop()">Run</button>
+    </div>
+
+    <div class="forEach-loop-container" id="forEach-loop">
+        <h2>forEach Loop: Background Colors</h2>
+        <h5>The forEach loop iterates over each element in an array. This example cycles through different background colors, displaying each color name with its matching background color one at a time.</h5>
+        <div class="output"></div>
+<button onclick="runForEachLoop()">Run</button>
+    </div>
+
+    <script src="./script.js"></script>
+</body>
+</html>

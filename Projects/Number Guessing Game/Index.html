@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Number Guessing Game</title>
+    <link rel="stylesheet" href="./Main.css">
+</head>
+
+<body>
+
+    <h1>Number Guessing Game</h1>
+    <h3 id="gameRangeText">Choose a difficulty to start playing!</h3>
+
+
+    <div class="difficulty-select">
+        <button id="easyBtn">Easy (1–20)</button>
+        <button id="mediumBtn">Medium (1–100)</button>
+        <button id="hardBtn">Hard (1–500)</button>
+    </div>
+
+    <div class="guess-input" style="display:none;">
+        <input type="text" placeholder="Enter your guess here">
+    </div>
+
+    <div class="play-again">
+        <button id="playAgainButton" style="display:none;">Play Again</button>
+    </div>
+    <div id="guessCounter" class="guess-counter">
+        <h4>Guesses: <span id="guessCount">0</span></h4>
+        <ul id="guessHistory"></ul>
+    </div>
+    <script src="./Script.js"></script>
+</body>
+
+</html>

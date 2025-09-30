@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Noto+Sans+SC:wght@100..900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+nav {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border: 1px solid #efecec;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    z-index: 100;
+    min-width: 120px;
+
+h3 {
+    font-family: 'Noto Sans SC', sans-serif;
+    color: #333;
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+    font-family: 'Figtree', sans-serif;
+    font-size: 0.9rem;
+    padding: 5px 8px;
+    border-radius: 4px;
+    display: block;
+    transition: all 0.3s ease;
+}
+
+
+ a:hover {
+    background-color: #333;
+    color: #fff;
+    transform: translateX(3px);
+}
+}
+
+
+
+
+.for-loop-container,
+.while-loop-container,
+.forEach-loop-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    padding-top: 8rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.for-loop-container{
+    font-family: 'Noto Sans SC', sans-serif;
+    background-color: #ffffff;
+
+    h2 {
+        color: #333;
+        font-size: 1.8rem;
+        margin-bottom: 0.5rem;
+    }
+
+    h5 {
+        color: #333;
+        margin-bottom: 1.3rem;
+        font-weight: 500;
+        line-height: 1.5;
+        text-align: center;
+        padding: 0 20%;
+    }
+
+    .output {
+        font-family: 'Figtree', sans-serif;
+        color: #333;
+        font-size: 1.2rem;
+        margin-bottom: 1.5rem;
+        text-align: center;
+        padding: 0 10%;
+    }
+
+    button {
+        padding: 5px 15px;
+        font-size: 1rem;
+        background-color: #333;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+}
+
+.while-loop-container{
+    font-family: 'Noto Sans SC', sans-serif;
+    background-color: #ffffff;
+
+    h2 {
+        color: #333;
+        font-size: 1.8rem;
+        margin-bottom: 0.5rem;
+    }
+
+    h5 {
+        color: #333;
+        margin-bottom: 1.3rem;
+        font-weight: 500;
+        line-height: 1.5;
+        text-align: center;
+        padding: 0 20%;
+    }
+
+    .output {
+        font-family: 'Figtree', sans-serif;
+        color: #333;
+        font-size: 1.2rem;
+        margin-bottom: 1.5rem;
+        text-align: center;
+        padding: 0 10%;
+    }
+
+    button {
+        padding: 5px 15px;
+        font-size: 1rem;
+        background-color: #333;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+}
+
+.forEach-loop-container{
+    font-family: 'Noto Sans SC', sans-serif;
+    background-color: #ffffff;
+
+    h2 {
+        color: #333;
+        font-size: 1.8rem;
+        margin-bottom: 0.5rem;
+    }
+
+    h5 {
+        color: #333;
+        margin-bottom: 1.3rem;
+        font-weight: 500;
+        line-height: 1.5;
+        text-align: center;
+        padding: 0 20%;
+    }
+
+    .output {
+        font-family: 'Figtree', sans-serif;
+        color: #333;
+        font-size: 1.2rem;
+        margin-bottom: 1.5rem;
+        text-align: center;
+        padding: 0 10%;
+    }
+
+    button {
+        padding: 5px 15px;
+        font-size: 1rem;
+        background-color: #333;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sanrio Trivia Quiz</title>
+    <link rel="stylesheet" href="./Main.css">
+</head>
+<body>
+    <div class="main-page" id="main-page">
+        <div class="main-content">
+            <h1>Sanrio Trivia Quiz</h1>
+            <h4>See how well you know the Sanrio Universe</h4>
+            <input type="text" id="username" placeholder="Enter your name" />
+            <button id="start-btn">Play ♫</button>
+        </div>
+    </div>
+    <div id="quiz-container"></div>
+    <div id="leaderboard-container">
+        <div class="leaderboard-header">
+            <span>Leaderboard</span>
+            <button id="clear-leaderboard-btn" title="Clear Leaderboard">✕</button>
+        </div>
+        <ul id="leaderboard-list"></ul>
+    </div>
+
+    <script src="./Script.js"></script>
+</body>
+</html>

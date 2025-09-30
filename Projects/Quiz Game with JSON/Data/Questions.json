@@ -1,0 +1,170 @@
+{
+  "title": "Sanrio Trivia Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "text": "What is Hello Kitty's full name?",
+      "options": [
+        "Hello Kitty",
+        "Kitty White",
+        "Kittie Kawaii",
+        "Kitty-chan"
+      ],
+      "answer": "Kitty White"
+    },
+    {
+      "id": 2,
+      "text": "In what city was Hello Kitty born (in the fictional universe)?",
+      "options": [
+        "Tokyo, Japan",
+        "London, England",
+        "Paris, France",
+        "New York, USA"
+      ],
+      "answer": "London, England"
+    },
+    {
+      "id": 3,
+      "text": "Which character is known for their distinctive pink rabbit hood?",
+      "options": [
+        "Kuromi",
+        "My Melody",
+        "Cinnamoroll",
+        "Keroppi"
+      ],
+      "answer": "My Melody"
+    },
+    {
+      "id": 4,
+      "text": "What type of animal is Pompompurin?",
+      "options": [
+        "A hamster",
+        "A dog",
+        "A bear",
+        "A cat"
+      ],
+      "answer": "A dog"
+    },
+    {
+      "id": 5,
+      "text": "What is the name of Hello Kitty's twin sister?",
+      "options": [
+        "Kuromi",
+        "My Melody",
+        "Mimmy White",
+        "Chococat"
+      ],
+      "answer": "Mimmy White"
+    },
+    {
+      "id": 6,
+      "text": "Which Sanrio character is a mischievous rabbit with a black jester's hat?",
+      "options": [
+        "My Melody",
+        "Badtz-Maru",
+        "Kuromi",
+        "Pochacco"
+      ],
+      "answer": "Kuromi"
+    },
+    {
+      "id": 7,
+      "text": "Cinnamoroll is a puppy with what kind of special ability?",
+      "options": [
+        "He can fly with his large ears.",
+        "He can predict the future.",
+        "He can turn invisible.",
+        "He can talk to other animals."
+      ],
+      "answer": "He can fly with his large ears."
+    },
+    {
+      "id": 8,
+      "text": "What animal is the character Keroppi?",
+      "options": [
+        "A penguin",
+        "A frog",
+        "A cat",
+        "A dog"
+      ],
+      "answer": "A frog"
+    },
+    {
+      "id": 9,
+      "text": "What is the name of the lazy egg yolk character from Sanrio?",
+      "options": [
+        "Gudetama",
+        "Aggretsuko",
+        "Kirimi-chan",
+        "Hummingmint"
+      ],
+      "answer": "Gudetama"
+    },
+    {
+      "id": 10,
+      "text": "Badtz-Maru is what type of animal?",
+      "options": [
+        "A duck",
+        "A cat",
+        "A penguin",
+        "A panda"
+      ],
+      "answer": "A penguin"
+    },
+    {
+      "id": 11,
+      "text": "The Little Twin Stars are named Kiki and...?",
+      "options": [
+        "Lulu",
+        "Lala",
+        "Lily",
+        "Lana"
+      ],
+      "answer": "Lala"
+    },
+    {
+      "id": 12,
+      "text": "What is Aggretsuko's main passion, which helps her release her anger?",
+      "options": [
+        "Playing video games",
+        "Singing death metal karaoke",
+        "Eating spicy food",
+        "Practicing yoga"
+      ],
+      "answer": "Singing death metal karaoke"
+    },
+    {
+      "id": 13,
+      "text": "What distinguishing feature helps you tell Hello Kitty apart from her twin sister Mimmy?",
+      "options": [
+        "Hello Kitty has a red bow, and Mimmy has a yellow one.",
+        "Hello Kitty wears a blue dress, and Mimmy wears a pink one.",
+        "Hello Kitty has blue eyes, and Mimmy has black eyes.",
+        "They have different colored ears."
+      ],
+      "answer": "Hello Kitty has a red bow, and Mimmy has a yellow one."
+    },
+    {
+      "id": 14,
+      "text": "What year was the Hello Kitty character first introduced?",
+      "options": [
+        "1970",
+        "1974",
+        "1980",
+        "1985"
+      ],
+      "answer": "1974"
+    },
+    {
+      "id": 15,
+      "text": "Chococat is a black cat with what key feature?",
+      "options": [
+        "A pink bow",
+        "A pair of blue glasses",
+        "A chocolate-colored nose",
+        "Large ears that are always perked up"
+      ],
+      "answer": "A chocolate-colored nose"
+    }
+  ]
+}
